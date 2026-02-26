@@ -1,7 +1,11 @@
 opencollection: 1.0.0
 
 info:
+<<<<<<< HEAD
+  name: posyandu API
+=======
   name: App Monitoring Posyandu
+>>>>>>> 16a51fff86382825e499c6f57122bb2ce69ad55c
 bundled: false
 extensions:
   bruno:
